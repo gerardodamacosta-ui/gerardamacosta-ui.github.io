@@ -15,11 +15,11 @@ Esta carpeta contiene una mini página personal construida con HTML semántico y
 
 Antes de terminar, verifica que:
 
-- [ ] La página se abre bien en el navegador (abre `index.html`).
-- [ ] El CSS se aplica (tipografía y colores deben cambiar).
-- [ ] La imagen carga (no se ve rota y tiene un `alt` descriptivo).
-- [ ] Hay un solo `main` y al menos un `header`, `nav`, `article`, `aside` y `footer`.
-- [ ] Los enlaces de navegación funcionan.
-- [ ] Tu código está bien indentado y las rutas son relativas.
+- [x] La página se abre bien en el navegador (abre `index.html`).
+- [x] El CSS se aplica (tipografía y colores deben cambiar).
+- [x] La imagen carga (no se ve rota y tiene un `alt` descriptivo).
+- [x] Hay un solo `main` y al menos un `header`, `nav`, `article`, `aside` y `footer`.
+- [x] Los enlaces de navegación funcionan.
+- [x] Tu código está bien indentado y las rutas son relativas.
 
 ---
